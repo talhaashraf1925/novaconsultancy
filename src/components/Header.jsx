@@ -12,7 +12,7 @@ export default function Header() {
           <Navbar.Brand href="/">
             <Image
               src="/images/logo.png"
-              style={{ width: "110px", height: "100px" }}
+              style={{ width: "90px", height: "90px" }}
               alt="Logo"
             />
           </Navbar.Brand>

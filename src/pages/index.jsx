@@ -173,10 +173,10 @@ export default function Home() {
       {/* // Section Services */}
       <section className="services py-5 bg-[#FAFBFC]">
         <div className="text-center pt-[50px]">
-          <h1 className="text-[65px] text-[#1E3A8A] fw-bold">
+          <h1 className="text-[60px] text-[#1E3A8A] fw-bold">
             Our IT Services
           </h1>
-          <p className="text-[22px] text-[#475569]">
+          <p className="text-[19px] text-[#475569]">
             Pioneering solutions we provide to accelerate your business success
             and digital<br></br> transformation.
           </p>
@@ -193,7 +193,7 @@ export default function Home() {
                   ></Image>
                   <div className="card-detail pt-[20px]">
                     <h3 className="fw-bold">Digital Marketing</h3>
-                    <p className="pt-[10px] text-[21px] text-[#475569]">
+                    <p className="pt-[10px] text-[19px] text-[#475569]">
                       Comprehensive digital marketing<br></br> solutions to
                       boost your online<br></br> presence, reach your target
                       <br></br> audience, and drive sustainable<br></br> growth.
@@ -216,7 +216,7 @@ export default function Home() {
                   ></Image>
                   <div className="card-detail pt-[20px]">
                     <h3 className="fw-bold">SMM</h3>
-                    <p className="pt-[10px] text-[21px] text-[#475569]">
+                    <p className="pt-[10px] text-[19px] text-[#475569]">
                       We amplify your brand's voice<br></br> across all major
                       social media<br></br>platforms through strategic<br></br>{" "}
                       content creation, community<br></br> management, and
@@ -238,7 +238,7 @@ export default function Home() {
                   ></Image>
                   <div className="card-detail pt-[20px]">
                     <h3 className="fw-bold">SEO Optimization</h3>
-                    <p className="pt-[10px] text-[21px] text-[#475569]">
+                    <p className="pt-[10px] text-[19px] text-[#475569]">
                       Our advanced SEO strategies are<br></br>
                       engineered to boost your search<br></br>
                       engine rankings and attract<br></br>
@@ -264,7 +264,7 @@ export default function Home() {
                   ></Image>
                   <div className="card-detail pt-[20px]">
                     <h3 className="fw-bold">Shopify</h3>
-                    <p className="pt-[10px] text-[21px] text-[#475569]">
+                    <p className="pt-[10px] text-[19px] text-[#475569]">
                       Professional e-commerce solutions<br></br>
                       and expertise on Shopify stores<br></br>
                       designed to maximize sales,<br></br>
@@ -291,7 +291,7 @@ export default function Home() {
                   ></Image>
                   <div className="card-detail pt-[20px]">
                     <h3 className="fw-bold">Web Development</h3>
-                    <p className="pt-[10px] text-[21px] text-[#475569]">
+                    <p className="pt-[10px] text-[19px] text-[#475569]">
                       We create responsive, high<br></br>-performance websites
                       that not<br></br>only look great but perform<br></br>
                       flawlessly and engage visitors. Our comprehensive web
@@ -315,7 +315,7 @@ export default function Home() {
                   ></Image>
                   <div className="card-detail pt-[20px]">
                     <h3 className="fw-bold">AI Automation</h3>
-                    <p className="pt-[10px] text-[21px] text-[#475569]">
+                    <p className="pt-[10px] text-[19px] text-[#475569]">
                       Transform your business<br></br>processes and boost
                       efficiency by streamlining your operations and<br></br>{" "}
                       enhance productivity with AI<br></br>solutions. We build
@@ -335,7 +335,7 @@ export default function Home() {
       {/* Client Section */}
       <section className="clients py-5 bg-[#FAFBFC]">
         <div className="text-center pt-[50px]">
-          <h1 className="text-[70px] text-[#1E3A8A] fw-bold">
+          <h1 className="text-[60px] text-[#1E3A8A] fw-bold">
             What Our Clients Say
           </h1>
         </div>
@@ -546,10 +546,10 @@ export default function Home() {
       <section className="projects py-5 bg-[#FAFBFC]">
         <Container>
           <div className="text-center pt-[50px]">
-            <h1 className="text-[65px] text-[#1E3A8A] fw-bold">
+            <h1 className="text-[55px] text-[#1E3A8A] fw-bold">
               Our Amazing Projects
             </h1>
-            <p className="text-[22px] text-[#475569]">
+            <p className="text-[20px] text-[#475569]">
               A glimpse into the innovative solutions and successful outcomes
               we've delivered for our<br></br> clients.
             </p>
@@ -614,7 +614,7 @@ export default function Home() {
                 </p>
               </div>
               <div className="detail">
-                <div className="info d-flex gap-3 bg-[#F8FAFC] p-3 rounded-4">
+                <div className="info d-flex gap-3 bg-[#F8FAFC] p-2 rounded-4">
                   <div className="mt-2">
                     <FontAwesomeIcon
                       icon={faEnvelope}
@@ -626,7 +626,7 @@ export default function Home() {
                     <p>Support@novaconsultancyy.com</p>
                   </div>
                 </div>
-                <div className="info mt-3 d-flex gap-3 bg-[#F8FAFC] p-3 rounded-4">
+                <div className="info mt-3 d-flex gap-3 bg-[#F8FAFC] p-2 rounded-4">
                   <div className="mt-2">
                     <FontAwesomeIcon
                       icon={faPhone}
@@ -638,7 +638,7 @@ export default function Home() {
                     <p>+44 7517231456</p>
                   </div>
                 </div>
-                <div className="info mt-3  gap-3 bg-[#F8FAFC] p-3 rounded-4">
+                <div className="info mt-3  gap-3 bg-[#F8FAFC] p-2 rounded-4">
                   <div>
                     <h5 className="text-[#1E3A8A] fw-bold">Follow Us</h5>
                     <div className="d-flex gap-2">
